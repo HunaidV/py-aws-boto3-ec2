@@ -3,6 +3,7 @@ bin/
 include/
 lib/
 share/
+.awsconfigure/
 __pycache__/
 *.py[cod]
 *$py.class
